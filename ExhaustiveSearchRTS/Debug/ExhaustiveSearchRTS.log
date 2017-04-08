@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\andrew\documents\visual studio 2015\projects\exhaustivesearchrts\exhaustivesearchrts\source.cpp(88): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  ExhaustiveSearchRTS.vcxproj -> C:\Users\Andrew\Documents\Visual Studio 2015\Projects\ExhaustiveSearchRTS\Debug\ExhaustiveSearchRTS.exe
+  ExhaustiveSearchRTS.vcxproj -> C:\Users\Andrew\Documents\Visual Studio 2015\Projects\ExhaustiveSearchRTS\Debug\ExhaustiveSearchRTS.pdb (Partial PDB)
